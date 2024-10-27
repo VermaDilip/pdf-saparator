@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pdf-saparator/static/css/main.6fcb9824.css",
+    "main.js": "/pdf-saparator/static/js/main.63d44806.js",
+    "static/js/453.99eb97dd.chunk.js": "/pdf-saparator/static/js/453.99eb97dd.chunk.js",
+    "index.html": "/pdf-saparator/index.html",
+    "main.6fcb9824.css.map": "/pdf-saparator/static/css/main.6fcb9824.css.map",
+    "main.63d44806.js.map": "/pdf-saparator/static/js/main.63d44806.js.map",
+    "453.99eb97dd.chunk.js.map": "/pdf-saparator/static/js/453.99eb97dd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6fcb9824.css",
+    "static/js/main.63d44806.js"
+  ]
+}
